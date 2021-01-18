@@ -4,6 +4,7 @@ module.exports = {
     description: `Starter template for Gatsby projects`,
     author: `@corbpaul`,
   },
+  pathPrefix: '/gatsby-template',
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
