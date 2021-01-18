@@ -1,0 +1,1 @@
+export { siteProps } from './site';

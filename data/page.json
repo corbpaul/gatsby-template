@@ -1,0 +1,26 @@
+[
+  {
+    "internalName": "index",
+    "title": "Hello World!",
+    "subtitle": "Welcome to your new Gatsby site.",
+    "links": [
+      {
+        "key": "about",
+        "href": "/about",
+        "text": "About"
+      }
+    ]
+  },
+  {
+    "internalName": "about",
+    "title": "About",
+    "subtitle": "More about yoour Gatsby site",
+    "links": [
+      {
+        "key": "home",
+        "href": "/",
+        "text": "Home"
+      }
+    ]
+  }
+]
